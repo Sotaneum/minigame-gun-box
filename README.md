@@ -2,4 +2,4 @@
 minigame gun box
 
 
-- [Download](./build/Gun_Box_x86_0.0.1.zip)
+- [Download](./build/Gun_Box_x86_0.0.1.zip?raw=true)
